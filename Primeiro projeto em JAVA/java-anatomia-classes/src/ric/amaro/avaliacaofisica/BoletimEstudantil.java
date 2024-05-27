@@ -1,3 +1,4 @@
+package ric.amaro.avaliacaofisica;
 public class BoletimEstudantil {
 
     public static void main(String[] args) {

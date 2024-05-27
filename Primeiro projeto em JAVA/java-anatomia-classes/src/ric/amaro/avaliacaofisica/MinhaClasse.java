@@ -1,3 +1,4 @@
+package ric.amaro.avaliacaofisica;
 
 public class MinhaClasse {
     public static void main(String[] args) {
@@ -13,11 +14,6 @@ public class MinhaClasse {
 
             return "PACIENTE: " + primeiroNome.concat(" ").concat(segundoNome);
         }
-
-
-
-
-
 
 
     
